@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNHp6MVFBcC9YcmlzM1ZJMkZza1FkWVRpS2dDY25xV0RLZ3RZNEFDRldoZytYbTdDVlhCZ25uSGpkeWhzRUZ1N2NkNGtUWTdyZHpzNldYNmxtQWREUzA2QnlFQUl1L2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5NjAxNTUwCWZpbGU6Z3ZlbGF1bmNoZXJfMC4xLjFfeDY0LXNldHVwLm5zaXMuemlwCm43dVRPd2cvYTFUWmNzdFpSSFNKTzlyNUhCemo2REEwdGk2KzJnaGovOWVybU9UcWtNNUtsNEt0OFM3T3dkSVNra2dBQ0RSTE9lU0pmTzIyWEFNZkF3PT0K",
-      "url": "https://github.com/Tesserust/UpdateGVE/releases/download/Test/gvelauncher_0.1.0_x64-setup.nsis.zip"
+      "url": "https://github.com/Tesserust/UpdateGVE/releases/download/Test/gvelauncher_0.1.1_x64-setup.nsis.zip"
     }
   }
 }
